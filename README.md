@@ -1,6 +1,9 @@
 # Konect-C
 1. Identificação
-Identidade Visual do Projeto Nome do Projeto: KONECT-C 
+2. 
+Identidade Visual do Projeto
+ Nome do Projeto: KONECT-C
+
 Logotipo/Marca: <img width="9834" height="1360" alt="image" src="https://github.com/user-attachments/assets/012aacb5-e1d3-4303-84c3-b90947cf7b84" />
 Paleta de Cores:  
 <img width="415" height="299" alt="image" src="https://github.com/user-attachments/assets/42e75c55-0497-4385-acda-09484451a11b" />
